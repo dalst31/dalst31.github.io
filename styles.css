@@ -1,0 +1,31 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	background-color: white;
+	text-align: left;
+	font-size: 14px;
+
+}
+
+h1{
+	color: white;
+	background-color: #50E3C2;
+	font-size: 20px;
+	text-align: center;
+
+}
+
+h2{
+	font-size: 16px;
+	color:gray;
+	font-weight: 700;
+}
+
+p {
+	font-size: 14px;
+	color: gray;
+}
+
+ul{
+	color:gray;
+	text-weight: bold;
+}
