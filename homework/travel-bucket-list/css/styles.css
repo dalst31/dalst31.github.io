@@ -1,0 +1,72 @@
+.maui {
+	font-size: 20px;
+	display: inline;
+}
+
+.reykjavik {
+	font-size: 20px;
+	display: inline;
+}
+
+.aspen {
+	font-size: 20px;
+	display: inline;
+}
+
+#maui {
+	background-color: #D6E4F4;
+
+}
+
+#reykjavik {
+
+	background-color: #DBF3EE;
+}
+
+#aspen {
+	background-color: #D6E4F4;
+}
+
+p {
+	font-size: 14px;
+	padding: 15px;
+}
+
+h2{
+	text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+div {
+	padding: 5px;
+	border: 5px;
+	margin: 10px auto;
+
+}
+
+ #section {
+      width: 82%;
+      margin: 15px auto 0 auto;
+      padding: 2%;
+      text-align: center;
+  }
+
+  #section li {
+      display: inline;
+      margin: 10px;
+  }
+
+  h1{
+  	background-color: #48BFA5;
+  	color:white;
+  	font-size: 24px;
+  	text-align: center;
+  	font-family: sans-serif;
+  	padding: 10px;
+  }
